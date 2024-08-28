@@ -13,3 +13,4 @@ A way to automatically remove all your discord friends
 
 ***USE AT YOUR OWN RISK***
 https://discord.com/terms
+[![Run on Repl.it](https://repl.it/badge/github/mrbmw31/discord-friend-remover)](https://repl.it/github/mrbmw31/discord-friend-remover)
